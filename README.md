@@ -1,1 +1,2 @@
-# github-for-beginers
+Hello, Hexlet!
+"# hexlet-git" 
